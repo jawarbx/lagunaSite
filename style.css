@@ -96,13 +96,13 @@ body {
     justify-content: center;
     border-style: solid;
     border-width: 8px;
-    background-image: url("/images/Before.jpg");
+    background-image: url("images/Before.jpg");
     transition: background-image 1s ease-in-out;
     border-color:#1F7A8C
 }
 
 .image-container:hover {
-    background-image: url(/images/After.jpg);
+    background-image: url(images/After.jpg);
 }
 /*
 .image-container .after{
