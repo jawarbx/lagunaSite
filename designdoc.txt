@@ -1,0 +1,22 @@
+3 Pages:
+- Landing Page
+    - Title w/image
+    - Pictures of problems and links
+    - Quotation telling how bad things are 
+    - Link to solution
+
+Why should we care
+- Water
+- Endangered Animals
+- Economic Impact
+
+What is the solution
+- Desalination
+- Implement new farming policies (Irrigation problems)
+
+Design:
+- Use same heading between articles
+- Implement style from odin landing Page
+- HTML/CSS only --> JS not needed
+
+Images
