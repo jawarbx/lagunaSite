@@ -102,7 +102,7 @@ body {
 }
 
 .image-container:hover {
-    background-image: url(images/After.jpg);
+    background-image: url("images/After.jpg");
 }
 /*
 .image-container .after{
